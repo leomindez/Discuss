@@ -32,5 +32,5 @@ providers: [
 ]
 
 config :ueberauth, Ueberauth.Strategy.Github.OAuth,
-  client_id: "47002d7b16149efcdca0",
-  client_secret: "c90f4bdd01e2fc7bc9aa334998d91c7a8495adf3"
+  client_id: "",
+  client_secret: ""
